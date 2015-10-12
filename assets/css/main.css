@@ -333,3 +333,7 @@ h1 a, h2 a, h3 a, h4 a {
   color: red;
   padding-left: .25em;
 }
+
+.colophon a b{
+	display:block;	
+}
